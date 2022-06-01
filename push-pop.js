@@ -1,34 +1,34 @@
-// // notun kore kau ke add korte caile push kora jay ...tobe seta string er sesh e bosbe ...
-// // add elements in a array 
+// notun kore kau ke add korte caile push kora jay ...tobe seta string er sesh e bosbe ...
+// add elements in a array 
 
 
-// var lastBantch = ['kalajm', 'balam', 'salam'];
-// lastBantch.push('hakim');
-// lastBantch.push('juakim');
-// lastBantch.push('hhakim');
-// lastBantch.push('hbbcxakim');
-// console.log(lastBantch);
-
-
-
-// var frIendage = [10, 12, 3, 80, 11, 5];
-// frIendage.push(14);
-// console.log(frIendage);
+var lastBantch = ['kalajm', 'balam', 'salam'];
+lastBantch.push('hakim');
+lastBantch.push('juakim');
+lastBantch.push('hhakim');
+lastBantch.push('hbbcxakim');
+console.log(lastBantch);
 
 
 
-
-// // remove elemenet a array 
-// var frIendageremove = [10, 12, 3, 80, 11, 5];
-// frIendageremove.pop();
-// frIendageremove.pop();
-// frIendageremove.pop();
-// console.log(frIendageremove);
+var frIendage = [10, 12, 3, 80, 11, 5];
+frIendage.push(14);
+console.log(frIendage);
 
 
 
 
-// jei item ta  remove pop korbo seita sohokar e rakhara jonno amra eivabe code likbo 
+// remove elemenet a array 
+var frIendageremove = [10, 12, 3, 80, 11, 5];
+frIendageremove.pop();
+frIendageremove.pop();
+frIendageremove.pop();
+console.log(frIendageremove);
+
+
+
+
+// jei item ta  remove pop korbo seita sohokar e rakhara jonno amra eivabe code likbo ..hureeeeehhhhhhhhhhhhhhhhhhhhhhh
 var Shoping = [4, 2, 36, 9, 7];
 var lastItem = Shoping.pop();
 console.log(Shoping);
